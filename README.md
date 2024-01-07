@@ -1,2 +1,2 @@
 To Do List made with python
-You can view, edt and clear your list.
+You can view, edit and clear your list.
